@@ -17,5 +17,9 @@
 - 📫 How to reach me: ...
 
 [![alt text][1.1]][1]
+
+
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+
+
 [1]: http://www.twitter.com/carlsednaoui
