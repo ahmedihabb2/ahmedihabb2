@@ -19,7 +19,7 @@
 [![alt text][1.1]][1]
 
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[1.1]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 
 
-[1]: http://www.twitter.com/carlsednaoui
+[1]: https://web.facebook.com/ahmed.ihab.773
