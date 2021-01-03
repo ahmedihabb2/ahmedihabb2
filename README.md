@@ -1,6 +1,6 @@
 <h1> Hi there 👋 , I'm  ahmed ihab! </h1>
 <h2 style="color:blue;">About Me</h2>
-<p>
+<p style="font-size:120%;">
   * Computer Engineering Student @Faculty of Engineering Cairo University  <br>
   *Flutter developer (good at using Firebase / state management)
   </p>
