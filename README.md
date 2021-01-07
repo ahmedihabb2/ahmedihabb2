@@ -2,7 +2,7 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
-[![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev/repos/ahmedihabb2)
 
 <h2 style="color:blue;">About Me</h2>
 <p style="font-size:120%;">
