@@ -1,4 +1,9 @@
 <h1> Hi there 👋 , I'm  ahmed ihab! </h1>
+
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+
+[![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
+
 <h2 style="color:blue;">About Me</h2>
 <p style="font-size:120%;">
   * Computer Engineering Student @Faculty of Engineering Cairo University  <br>
