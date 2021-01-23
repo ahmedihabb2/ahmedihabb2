@@ -1,7 +1,8 @@
 <h1> Hi there 👋 , I'm  ahmed ihab! </h1>
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/ahmedihabb2/git-badges)](https://badges.pufler.dev)
+
+![Visits Badge](https://badges.pufler.dev/visits/ahmedihabb2/git-badges)](https://badges.pufler.dev)
 
 
 
