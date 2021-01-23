@@ -17,7 +17,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedihabb2&theme=algolia&show_icons=true&locale=en&layout=compact" alt="ahmedihabb2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedihabb2&show_icons=true&locale=en" alt="ahmedihabb2" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedihabb2&theme=algolia&show_icons=true&locale=en" alt="ahmedihabb2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedihabb2&" alt="ahmedihabb2" /></p>
 
