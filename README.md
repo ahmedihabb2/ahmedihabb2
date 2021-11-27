@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedihabb2&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedihabb2" /> </p>
 
--👨‍💻 I am a 2nd Year undergraduate from Faculty of Engineering Cairo University, Giza.
+-👨‍💻 I am a 3rd Year undergraduate from Faculty of Engineering Cairo University, Giza.
 
 - 🔭 I’m currently working on [Dentista](A flutter application used to make it easier for dentists to buy their on equipment)
 
