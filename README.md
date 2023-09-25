@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ihab</h1>
-<h3 align="center">DevOps Engineer @TactfulAI</h3>
+<h3 align="center">DevOps Engineer II @DstnyEngage</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedihabb2&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedihabb2" /> </p>
 
 ![devops-0e9eb5527ab6dfb98a4fff167712fbed](https://user-images.githubusercontent.com/57008633/178857790-eb627197-397a-4027-bbdd-9e4854cbe4ad.gif)
 
 
--👨‍💻 I am a 3rd Year undergraduate from Faculty of Engineering Cairo University, Giza.
-
-- 🌱 I’m currently learning Ansible,Terraform
+-👨‍💻 I am a Computer Engineering Graduate from Cairo University
 
 - 🤞 I’m good at  K8s , Docker , Helm , AWS ,Azure
 
